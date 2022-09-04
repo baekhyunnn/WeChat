@@ -11,7 +11,7 @@
 "app_secret": "9ab0cd0e2a048e7eeb15b6ccbf53354a",
 
 "template_id": "GoXOVZ6Nqq9-6dVQiL5JUYDbhkOtqck-aBO7HcLVa5w",
-"user_id": ["or2ra539sV2ZuiAN9NtwM7e8CPIo"],
+"user_id": ["gh_1d93630559ad "],
 #"user_id": ["or2ra539sV2ZuiAN9NtwM7e8CPIo" , "or2ra539sV2ZuiAN9NtwM7e8CPIo"],
 
 "C_ShengFen": "武汉",
