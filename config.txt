@@ -14,7 +14,7 @@
 "user_id": ["or2ra539sV2ZuiAN9NtwM7e8CPIo "],
 #"user_id": ["or2ra539sV2ZuiAN9NtwM7e8CPIo" , "or2ra539sV2ZuiAN9NtwM7e8CPIo"],
 
-"C_ShengFen": "黄石",
+"C_ShengFen": "湖北",
 "C_ChengShi": "武汉",
 "S_XingZuo": "天秤座",
 
