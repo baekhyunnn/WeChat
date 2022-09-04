@@ -22,9 +22,9 @@
 "birthday1": "2004-09-27",
 "birthday2": "2004-09-28",
 
-"C_String01": "可以替换为自己想要的文字 01",
-"C_String02": "可以替换为自己想要的文字 02",
-"C_String03": "可以替换为自己想要的文字 03",
+"C_String01": "笨笨浩浩",
+"C_String02": "love u",
+"C_String03": "You will always be my favorite hello and hardest goodbye",
 
 
 # 天气预报
